@@ -18,7 +18,7 @@
                         <hr>
                         <h4>{{ $post->titlee }}</h4>
                         <p class="tmt-3">
-                            {!! $possts->content !!}
+                            {!! $post->content !!}
                         </p>
                     </div>
                 </div>
